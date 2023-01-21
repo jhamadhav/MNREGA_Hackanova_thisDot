@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21301247350",
+    "project_id": "mnrega-images",
+    "storage_bucket": "mnrega-images.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21301247350:android:89854e8facb904a246ce57",
+        "android_client_info": {
+          "package_name": "com.example.final_nav_bar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21301247350-lcc4hvb6o8r7drnhpfdjghlcbgbmluj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3tnaOBr66OK6KIHMe-V6Rd8URKo0vWUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21301247350-lcc4hvb6o8r7drnhpfdjghlcbgbmluj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
