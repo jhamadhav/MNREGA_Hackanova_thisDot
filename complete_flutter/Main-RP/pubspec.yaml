@@ -1,0 +1,57 @@
+name: final_nav_bar
+description: A new Flutter project.
+
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  dio: ^4.0.6
+  fluttertoast: ^8.0.9
+  mongo_dart: ^0.7.4+1
+  firebase_core: ^1.6.0
+  firebase_storage: ^10.0.3
+  image_picker: ^0.8.5+3
+  get: ^4.6.5
+  geolocator: ^9.0.1
+  geocoding: ^2.0.5
+  http:
+  shared_preferences: ^2.0.16
+  google_ml_kit: ^0.13.0
+  exif: ^3.1.2
+  android_intent: ^2.0.2
+  location: ^4.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+  fonts:
+    - family: Tajawal
+      fonts:
+        - asset: lib/Fonts/Tajawal-Bold.ttf
+          weight: 700
+        - asset: lib/Fonts/Tajawal-Regular.ttf
+    - family: Aboreto
+      fonts:
+        - asset: lib/Fonts/Aboreto/Aboreto-Regular.ttf
+    - family: Abel
+      fonts:
+        - asset: lib/Fonts/Abel/Abel-Regular.ttf
+          
+  assets:
+    - assets/mnrega.png
+    - assets/OIP.jpg
+    - assets/dam.jpg
+    - assets/emp.jpg
