@@ -82,9 +82,23 @@ Tech stack
 
 # Demo
 
-Main app demo: https://youtu.be/Vlk-5HigI8k
+<div align="center">
+<p style="width:650px; align:center; text-align:center;">
+<a href="https://youtu.be/Vlk-5HigI8k">
+<img src="./_demo/youtube-main-app.jpg" style="width:650px;"> <br>
+</a>
+Main app demo
+</p>
+</div>
 
-AR app demo: https://youtu.be/YQYYK2wRRPM
+<div align="center">
+<p style="width:650px; align:center; text-align:center;">
+<a href="https://youtu.be/YQYYK2wRRPM">
+<img src="./_demo/youtube-ar-app.jpg" style="width:650px;"> <br>
+</a>
+AR ruler app demo
+</p>
+</div> 
 
 # Event detail
 
