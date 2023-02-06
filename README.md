@@ -7,13 +7,13 @@ An add-on layer to current government's MNREGA system to provide a more transpar
 </p>
 </div>
 
-## Summary
+# Summary
 - built add-on layer to enhance existing MNREGA application 
 - plagiarism check using object detection and classification
 - utility features such as OCR and AR ruler
 - impacts employment of 80 million people directly
 
-## What is MNREGA ?
+# What is MNREGA ?
 MNREGA stands for <b>Mahatma Gandhi National Rural Employment Guarantee Act</b>. It's objective is to 
 - Provide 100 days of guaranteed wage employment to rural unskilled labour
 - Increase economic security
@@ -24,9 +24,9 @@ It gives a significant amount of control to the Gram Panchayats for managing pub
 It incorporates accountability in its operational guidelines and ensures compliance and transparency at all levels.
 
 
-## Current systemt and it's issues
+# Current system and it's issues
 
-### working:
+## working
 
 Once work is allocated and workers are assigned work, The MGNREGA Spatial Enumerator (MSE) officer uploads images of progress about the project at three stages
 - beginning of project
@@ -34,12 +34,14 @@ Once work is allocated and workers are assigned work, The MGNREGA Spatial Enumer
 - on project completion
 and all these information is publicly available on governments site.
 
-### shortcoming:
+## shortcoming
 
 Even with all the check present in current system there are some major shortcomings such as:
 - lack of check for uploaded images
 - lack of ease of access
 - lack of check for plagiarism
+
+## Example
 
 One such example of mis-happening is presented below:
 
@@ -53,13 +55,15 @@ If you will navigate to <b>Uttar Pradesh -> Faizabad</b>, you find this peculiar
 Faizabad, Uttar Pradesh, India
 </p>
 </div>
-## Our Solutions
+
+# Our Solutions
 
 | Goal | Description |
 |------|--------------|
 | Transperancy | Open Database & ease of use |
 | Corruption | - Object detection ML model <br> - classification MLmodel <br> - plagarism checker |
 | Utility | - OCR <br> - Augmented Reality |
+
 
 <div align="center">
 <p style="width:650px; align:center; text-align:center;">
@@ -76,13 +80,13 @@ Tech stack
 </div>
 
 
-## Demo
+# Demo
 
 Main app demo: https://youtu.be/Vlk-5HigI8k
 
 AR app demo: https://youtu.be/YQYYK2wRRPM
 
-## Event detail
+# Event detail
 
 We made and presented this project in <b>Hackanova 2.0 by TCET Mumbai</b> a 30 hour hackathon and won <b>1st prize</b> in the <b>Open Innovation</b> category.
 <div align="center">
@@ -99,7 +103,7 @@ Hackanova 2.0
 </p>
 </div>
 
-## Team detail
+# Team detail
 - Madhav Jha: [@jhamadhav](https://github.com/jhamadhav)
 - Harsheet Chordiya: [@Harsheet196](https://github.com/Harsheet196)
 - Sarvesh Vyas: [@git-svyas](https://github.com/git-svyas)
