@@ -1,8 +1,8 @@
 # Transparent and Corruption-free MNREGA
 
 <div align="center">
-<p style="width:650px; align:center; text-align:center;">
-<img src="./_demo/main-img.png">
+<p align:center; text-align:center;">
+<img src="./_demo/main-img.png" style="width:750px;"> <br>
 An add-on layer to current government's MNREGA system to provide a more transparent, easy-to-use and corruption-free environment.
 </p>
 </div>
@@ -41,7 +41,7 @@ Even with all the check present in current system there are some major shortcomi
 - lack of ease of access
 - lack of check for plagiarism
 
-#### One such example of mis-happening is presented below:
+One such example of mis-happening is presented below:
 
 You can check out all projects and their details on [Bhuvan-MGNREGA](https://bhuvan-app2.nrsc.gov.in/mgnrega/mgnrega_phase2.php) by Ministry of Rural Development.
 
@@ -63,43 +63,43 @@ Faizabad, Uttar Pradesh, India
 
 <div align="center">
 <p style="width:650px; align:center; text-align:center;">
-<img src="./_demo/diagram.png">
+<img src="./_demo/diagram.png" style="width:650px;"> <br>
 Our system flow
 </p>
 </div>
 
 <div align="center">
 <p style="width:650px; align:center; text-align:center;">
-<img src="./_demo/tech-stack.png">
+<img src="./_demo/tech-stack.png" style="width:650px;"> <br>
 Tech stack
 </p>
 </div>
 
 
-## Demo:
+## Demo
 
 Main app demo: https://youtu.be/Vlk-5HigI8k
 
 AR app demo: https://youtu.be/YQYYK2wRRPM
 
-## Event detail:
+## Event detail
 
 We made and presented this project in <b>Hackanova 2.0 by TCET Mumbai</b> a 30 hour hackathon and won <b>1st prize</b> in the <b>Open Innovation</b> category.
 <div align="center">
 <p style="width:650px; align:center; text-align:center;">
-<img src="./_demo/winner-pic.jpg">
+<img src="./_demo/winner-pic.jpg" style="width:650px;"> <br>
 Hackanova 2.0 - Open Innovation winners
 </p>
 </div>
 
 <div align="center">
 <p style="width:650px; align:center; text-align:center;">
-<img src="./_demo/thisDot.jpg">
+<img src="./_demo/thisDot.jpg" style="width:650px;"> <br>
 Hackanova 2.0
 </p>
 </div>
 
-## Team:
+## Team detail
 - Madhav Jha: [@jhamadhav](https://github.com/jhamadhav)
 - Harsheet Chordiya: [@Harsheet196](https://github.com/Harsheet196)
 - Sarvesh Vyas: [@git-svyas](https://github.com/git-svyas)
